@@ -1,0 +1,24 @@
+.contenit1 {height: 1000px; width: 1200px; margin:0 auto; margin-left: 25%;
+        }
+
+.close1 { display: inline-block; position: relative;
+        }
+        
+.close2 { display: inline-block; position: relative;
+        }
+.close3 { display: inline-block; position: relative;
+        }
+.images {margin-top: 50px; 
+        }
+.sconto1 {background-color: green; 
+          position: absolute;
+          top:0; 
+          right:0;
+          border: 1px solid green; 
+        }
+.sconto2 {background-color: red; 
+            position: absolute;
+            top:0; 
+            right:0;
+            border: 1px solid red; 
+          }
